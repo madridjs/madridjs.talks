@@ -3,8 +3,8 @@
 ## Español
 
 En [MadridJS](http://www.meetup.com/madridjs/)
-estamos buscando activamente charlas de iniciación a JavaScript,
-de una media hora de duración.
+estamos buscando activamente charlas sobre JavaScript,
+de unos 40 minutos de duración.
 Sin importar sexo, edad, origen o condición.
 ¡Anímate *ahora*!
 
@@ -20,8 +20,8 @@ Te avisaremos ya en firme con varias semanas de antelación.
 ## English
 
 At [MadridJS](http://www.meetup.com/madridjs/)
-we are actively seeking introductory talks to JavaScript,
-about half an hour long.
+we are actively seeking talks about JavaScript,
+about 40 minutes long.
 No matter gender, age, origin or condition.
 Send yours *now*!
 
