@@ -42,15 +42,18 @@ según disponibilidad de los ponentes y espacios.
 ### Marzo 2015
 
 Introductoria: [Fibonacci everywhere](https://github.com/madridjs/talks/issues/1).
+
 Avanzada: [La arquitectura fluida](https://github.com/madridjs/talks/issues/2).
 
 ### Abril 2015
 
 Introductoria: [CasperJS – Navega con el Piloto Automático](https://github.com/madridjs/talks/issues/3).
+
 Avanzada: [The new HTTP/2 protocol](https://github.com/madridjs/talks/issues/4) (English).
 
 ### Mayo 2015
 
 Introductoria: por determinar.
+
 Avanzada: [Stealing from Clojure(Script)](https://github.com/madridjs/talks/issues/6).
 
