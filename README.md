@@ -57,3 +57,9 @@ Introductoria: por determinar.
 
 Avanzada: [Stealing from Clojure(Script)](https://github.com/madridjs/talks/issues/6).
 
+### Junio 2015
+
+Introductoria: por determinar.
+
+Avanzada: [Creating Web Applications with ReactJS and Flux](https://github.com/madridjs/talks/issues/5).
+
