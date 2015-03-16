@@ -59,7 +59,6 @@ Avanzada: [Stealing from Clojure(Script)](https://github.com/madridjs/talks/issu
 
 ### Junio 2015
 
-Introductoria: por determinar.
+Introductoria: [Drag&drop con backbone crossbrowser](https://github.com/madridjs/talks/issues/9).
 
 Avanzada: [Creating Web Applications with ReactJS and Flux](https://github.com/madridjs/talks/issues/5).
-
