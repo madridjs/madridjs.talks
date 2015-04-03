@@ -47,7 +47,7 @@ Avanzada: [The new HTTP/2 protocol](https://github.com/madridjs/talks/issues/4) 
 
 ### Mayo 2015
 
-Introductoria: [Hitting the Couch](https://github.com/madridjs/talks/issues/7).
+Introductoria: [Hitting the Couch](https://github.com/madridjs/talks/issues/7) (English).
 
 Avanzada: [Stealing from Clojure(Script)](https://github.com/madridjs/talks/issues/6).
 
