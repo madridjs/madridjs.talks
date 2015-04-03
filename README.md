@@ -39,12 +39,6 @@ We will then notify you with a final date, several weeks in advance.
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Marzo 2015
-
-Introductoria: [Fibonacci everywhere](https://github.com/madridjs/talks/issues/1).
-
-Avanzada: [La arquitectura fluida](https://github.com/madridjs/talks/issues/2).
-
 ### Abril 2015
 
 Introductoria: [CasperJS – Navega con el Piloto Automático](https://github.com/madridjs/talks/issues/3).
@@ -68,3 +62,11 @@ Avanzada: [Creating Web Applications with ReactJS and Flux](https://github.com/m
 Introductoria: por determinar.
 
 Avanzada: [Magia Modular](https://github.com/madridjs/talks/issues/10).
+
+## Charlas Pasadas
+
+### Marzo 2015
+
+Introductoria: [Fibonacci everywhere](https://github.com/madridjs/talks/issues/1).
+
+Avanzada: [La arquitectura fluida](https://github.com/madridjs/talks/issues/2).
