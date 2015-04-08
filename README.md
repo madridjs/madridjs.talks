@@ -41,7 +41,7 @@ según disponibilidad de los ponentes y espacios.
 
 ### Abril 2015
 
-Introductoria: [CasperJS – Navega con el Piloto Automático](https://github.com/madridjs/talks/issues/3).
+Introductoria: pendiente.
 
 Avanzada: [The new HTTP/2 protocol](https://github.com/madridjs/talks/issues/4) (English).
 
@@ -59,7 +59,7 @@ Avanzada: [Creating Web Applications with ReactJS and Flux](https://github.com/m
 
 ### Septiembre 2015
 
-Introductoria: por determinar.
+Introductoria: [CasperJS – Navega con el Piloto Automático](https://github.com/madridjs/talks/issues/3).
 
 Avanzada: [Magia Modular](https://github.com/madridjs/talks/issues/10).
 
