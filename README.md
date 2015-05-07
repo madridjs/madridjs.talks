@@ -39,12 +39,6 @@ We will then notify you with a final date, several weeks in advance.
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Abril 2015
-
-Introductoria: pendiente.
-
-Avanzada: [The new HTTP/2 protocol](https://github.com/madridjs/talks/issues/4) (English).
-
 ### Mayo 2015
 
 Introductoria: [Hitting the Couch](https://github.com/madridjs/talks/issues/7) (English).
@@ -70,3 +64,9 @@ Avanzada: [Magia Modular](https://github.com/madridjs/talks/issues/10).
 Introductoria: [Fibonacci everywhere](https://github.com/madridjs/talks/issues/1).
 
 Avanzada: [La arquitectura fluida](https://github.com/madridjs/talks/issues/2).
+
+### Abril 2015
+
+Introductoria: Charla Motivacional por el prof Píberos.
+
+Avanzada: [The new HTTP/2 protocol](https://github.com/madridjs/talks/issues/4) (English).
