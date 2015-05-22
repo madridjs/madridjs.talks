@@ -67,6 +67,6 @@ Avanzada: [La arquitectura fluida](https://github.com/madridjs/talks/issues/2).
 
 ### Abril 2015
 
-Introductoria: Charla Motivacional por el prof Píberos.
+Introductoria: Charla Motivacional por el prof. Pinchito.
 
 Avanzada: [The new HTTP/2 protocol](https://github.com/madridjs/talks/issues/4) (English).
