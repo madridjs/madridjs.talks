@@ -59,14 +59,14 @@ Avanzada: [Magia Modular](https://github.com/madridjs/talks/issues/10).
 
 ## Charlas Pasadas
 
-### Marzo 2015
-
-Introductoria: [Fibonacci everywhere](https://github.com/madridjs/talks/issues/1).
-
-Avanzada: [La arquitectura fluida](https://github.com/madridjs/talks/issues/2).
-
 ### Abril 2015
 
 Introductoria: Charla Motivacional por el prof. Pinchito.
 
 Avanzada: [The new HTTP/2 protocol](https://github.com/madridjs/talks/issues/4) (English).
+
+### Marzo 2015
+
+Introductoria: [Fibonacci everywhere](https://github.com/madridjs/talks/issues/1).
+
+Avanzada: [La arquitectura fluida](https://github.com/madridjs/talks/issues/2).
