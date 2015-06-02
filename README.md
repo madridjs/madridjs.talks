@@ -39,25 +39,29 @@ We will then notify you with a final date, several weeks in advance.
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Mayo 2015
+### Junio 2051
 
-Introductoria: [Hitting the Couch](https://github.com/madridjs/talks/issues/7) (English).
+Fuera de programa: [From ECMAScript 5 to ES 6 to Scala.js](http://www.meetup.com/es/madridjs/events/222928590/)
 
-Avanzada: [Stealing from Clojure(Script)](https://github.com/madridjs/talks/issues/6).
-
-### Junio 2015
+### Septiembre 2015
 
 Introductoria: [Drag&drop con backbone crossbrowser](https://github.com/madridjs/talks/issues/9).
 
 Avanzada: [Creating Web Applications with ReactJS and Flux](https://github.com/madridjs/talks/issues/5).
 
-### Septiembre 2015
+### Octubre 2015
 
 Introductoria: [CasperJS – Navega con el Piloto Automático](https://github.com/madridjs/talks/issues/3).
 
 Avanzada: [Magia Modular](https://github.com/madridjs/talks/issues/10).
 
 ## Charlas Pasadas
+
+### Mayo 2015
+
+Introductoria: [Hitting the Couch](https://github.com/madridjs/talks/issues/7) (English).
+
+Avanzada: [Stealing from Clojure(Script)](https://github.com/madridjs/talks/issues/6).
 
 ### Abril 2015
 
