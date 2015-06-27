@@ -39,7 +39,7 @@ We will then notify you with a final date, several weeks in advance.
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Junio 2051
+### Junio 2015
 
 Fuera de programa: [From ECMAScript 5 to ES 6 to Scala.js](http://www.meetup.com/es/madridjs/events/222928590/)
 
