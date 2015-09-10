@@ -45,15 +45,19 @@ Fuera de programa: [From ECMAScript 5 to ES 6 to Scala.js](http://www.meetup.com
 
 ### Septiembre 2015
 
-Introductoria: [Drag&drop con backbone crossbrowser](https://github.com/madridjs/talks/issues/9).
+Introductoria: [Componentizando la web con la ayuda de Polymer](https://github.com/madridjs/talks/issues/13).
 
 Avanzada: [Creating Web Applications with ReactJS and Flux](https://github.com/madridjs/talks/issues/5).
 
 ### Octubre 2015
 
-Introductoria: [CasperJS – Navega con el Piloto Automático](https://github.com/madridjs/talks/issues/3).
+Introductoria: [Drag&drop con backbone crossbrowser](https://github.com/madridjs/talks/issues/9).
 
 Avanzada: [Magia Modular](https://github.com/madridjs/talks/issues/10).
+
+### Noviembre 2015
+
+Introductoria: [CasperJS – Navega con el Piloto Automático](https://github.com/madridjs/talks/issues/3).
 
 ## Charlas Pasadas
 
