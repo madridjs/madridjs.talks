@@ -1,5 +1,11 @@
 # MadridJS Talks
 
+Este repositorio sirve para organizar la cola de charlas propuestas.
+Publicaremos los encuentros en [Meetup.com](http://www.meetup.com/es/madridjs/).
+
+This repository is used to organized the queue of proposals.
+We will publish all meetups on [Meetup.com](http://www.meetup.com/es/madridjs/).
+
 ## Código de conducta
 
 Para asegurarnos que seamos todos tan majos con los demás como hasta ahora,
@@ -54,27 +60,33 @@ We will then notify you with a final date, several weeks in advance.
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Junio 2015
-
-Fuera de programa: [From ECMAScript 5 to ES 6 to Scala.js](http://www.meetup.com/es/madridjs/events/222928590/)
-
 ### Septiembre 2015
 
-Introductoria: [Componentizando la web con la ayuda de Polymer](https://github.com/madridjs/talks/issues/13).
-
-Avanzada: [Creating Web Applications with ReactJS and Flux](https://github.com/madridjs/talks/issues/5).
+Charla única: [Creating Web Applications with ReactJS and Flux](https://github.com/madridjs/talks/issues/5).
 
 ### Octubre 2015
 
-Introductoria: [Drag&drop con backbone crossbrowser](https://github.com/madridjs/talks/issues/9).
+Charla única: [Augur Project: heavy duty React](https://github.com/madridjs/talks/issues/12).
+
+### Noviembre 2015
+
+Introductoria: [Componentizando la web con la ayuda de Polymer](https://github.com/madridjs/talks/issues/13).
 
 Avanzada: [Magia Modular](https://github.com/madridjs/talks/issues/10).
 
-### Noviembre 2015
+### Enero 2016
+
+Introductoria: [Drag&drop con backbone crossbrowser](https://github.com/madridjs/talks/issues/9).
+
+### Febrero 2016
 
 Introductoria: [CasperJS – Navega con el Piloto Automático](https://github.com/madridjs/talks/issues/3).
 
 ## Charlas Pasadas
+
+### Junio 2015
+
+Fuera de programa: [From ECMAScript 5 to ES 6 to Scala.js](http://www.meetup.com/es/madridjs/events/222928590/)
 
 ### Mayo 2015
 
