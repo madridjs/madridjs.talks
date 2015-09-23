@@ -6,12 +6,6 @@ Publicaremos los encuentros en [Meetup.com](http://www.meetup.com/es/madridjs/).
 This repository is used to organized the queue of proposals.
 We will publish all meetups on [Meetup.com](http://www.meetup.com/es/madridjs/).
 
-## Código de conducta
-
-Para asegurarnos que seamos todos tan majos con los demás como hasta ahora,
-hemos elaborado este [código de conducta](codigo-conducta.md) donde viene por escrito.
-Es nuestro compromiso con un ambiente libre de malos rollos.
-
 ## Propuestas
 
 En [MadridJS](http://www.meetup.com/madridjs/)
@@ -29,15 +23,6 @@ Envía un [_issue_](https://github.com/MadridJs/talks/issues/new) para proponer 
 Contactaremos contigo para confirmar recepción, y para asignarte fecha tentativa.
 Te avisaremos ya en firme con varias semanas de antelación.
 
-## Code of Conduct
-
-To ensure that we are all as nice to each other as we have been so far,
-we have adopted this [code of conduct](codigo-conducta.md), right now in Spanish only,
-but you can read our [inspiring](http://www.meetup.com/pdxpython/pages/Code_of_Conduct/)
-[policies](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
-In a nutshell: don't be a jerk to others.
-Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any doubts.
-
 ## Call for Proposals
 
 At [MadridJS](http://www.meetup.com/madridjs/)
@@ -54,6 +39,21 @@ Send an issue to propose a talk. Please include:
 
 We will contact you to confirm reception, and to assign tentative date.
 We will then notify you with a final date, several weeks in advance.
+
+## Código de conducta
+
+Para asegurarnos que seamos todos tan majos con los demás como hasta ahora,
+hemos elaborado este [código de conducta](codigo-conducta.md) donde viene por escrito.
+Es nuestro compromiso con un ambiente libre de malos rollos.
+
+## Code of Conduct
+
+To ensure that we are all as nice to each other as we have been so far,
+we have adopted this [code of conduct](codigo-conducta.md), right now in Spanish only,
+but you can read our [inspiring](http://www.meetup.com/pdxpython/pages/Code_of_Conduct/)
+[policies](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+In a nutshell: don't be a jerk to others.
+Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any doubts.
 
 ## Próximas charlas previstas
 
