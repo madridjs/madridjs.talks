@@ -60,29 +60,33 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Septiembre 2015
-
-Charla única: [Creating Web Applications with ReactJS and Flux](https://github.com/madridjs/talks/issues/5).
-
-### Octubre 2015
-
-Charla única: [Augur Project: heavy duty React](https://github.com/madridjs/talks/issues/12).
-
-### Noviembre 2015
+### Enero 2016
 
 Introductoria: [Componentizando la web con la ayuda de Polymer](https://github.com/madridjs/talks/issues/13).
 
 Avanzada: [Magia Modular](https://github.com/madridjs/talks/issues/10).
 
-### Enero 2016
+### Febrero 2016
 
 Introductoria: [Drag&drop con backbone crossbrowser](https://github.com/madridjs/talks/issues/9).
 
-### Febrero 2016
+### Marzo 2016
 
 Introductoria: [CasperJS – Navega con el Piloto Automático](https://github.com/madridjs/talks/issues/3).
 
 ## Charlas Pasadas
+
+### Noviembre 2015
+
+Charlas especiales: JavaScript at Booking.com.
+
+### Octubre 2015
+
+Charla única: [Augur Project: heavy duty React](https://github.com/madridjs/talks/issues/12).
+
+### Septiembre 2015
+
+Charla única: [Creating Web Applications with ReactJS and Flux](https://github.com/madridjs/talks/issues/5).
 
 ### Junio 2015
 
