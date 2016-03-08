@@ -60,21 +60,21 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Enero 2016
+### Marzo 2016
 
-Introductoria: [Componentizando la web con la ayuda de Polymer](https://github.com/madridjs/talks/issues/13).
+Introductoria: [Mapas con vitaminas](https://github.com/madridjs/talks/issues/14).
+Avanzada: [At your service!](https://github.com/madridjs/talks/issues/16).
 
-Avanzada: [Magia Modular](https://github.com/madridjs/talks/issues/10).
+## Charlas Pasadas
 
 ### Febrero 2016
 
-Introductoria: [Drag&drop con backbone crossbrowser](https://github.com/madridjs/talks/issues/9).
+Especial: [Keep it simple, use React](https://github.com/madridjs/talks/issues/15).
 
-### Marzo 2016
+### Enero 2016
 
-Introductoria: [CasperJS – Navega con el Piloto Automático](https://github.com/madridjs/talks/issues/3).
-
-## Charlas Pasadas
+Especial: Taller de programación funcional.
+Especial: Taller avanzado de programación funcional.
 
 ### Noviembre 2015
 
