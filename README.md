@@ -60,12 +60,17 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
+### Mayo 2016
+
+* Charla única: [Fable o cómo escribir un compilador a JS](https://github.com/madridjs/talks/issues/19).
+* [Meetup](http://www.meetup.com/es-ES/madridjs/events/231216532/).
+
+## Charlas Pasadas
+
 ### Marzo 2016
 
 Introductoria: [Mapas con vitaminas](https://github.com/madridjs/talks/issues/14).
 Avanzada: [At your service!](https://github.com/madridjs/talks/issues/16).
-
-## Charlas Pasadas
 
 ### Febrero 2016
 
