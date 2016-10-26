@@ -60,12 +60,27 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Mayo 2016
+### Noviembre 2016
 
-* Charla única: [Fable o cómo escribir un compilador a JS](https://github.com/madridjs/talks/issues/19).
-* [Meetup](http://www.meetup.com/es-ES/madridjs/events/231216532/).
+Special guest talk: [The (Awesome) Future of Web Apps](https://github.com/madridjs/talks/issues/28). See on [Meetup](http://www.meetup.com/es-ES/madridjs/events/234750673/).
+
+### Octubre 2016
+
+Charla única: [Programa tu robot MIP con NativeScript](https://github.com/madridjs/talks/issues/22). Ver en [Meetup](http://www.meetup.com/es-ES/madridjs/events/234750673/).
 
 ## Charlas Pasadas
+
+### Septiembre 2016
+
+Charla única: [Gestionar la asincronía en Javascript](https://github.com/madridjs/talks/issues/23). Ver en [Meetup](http://www.meetup.com/es-ES/madridjs/events/234060007/).
+
+### Junio 2016
+
+Charla única: [UI Kits en React: el caso de React Toolbox](https://github.com/madridjs/talks/issues/20).  Ver en [Meetup](http://www.meetup.com/es-ES/madridjs/events/231747361/).
+
+### Mayo 2016
+
+Charla única: [Fable o cómo escribir un compilador a JS](https://github.com/madridjs/talks/issues/19). Ver en [Meetup](http://www.meetup.com/es-ES/madridjs/events/231216532/).
 
 ### Marzo 2016
 
