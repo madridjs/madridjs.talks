@@ -9,8 +9,8 @@ Los participantes que violen estas reglas pueden ser sancionados o expulsados
 de la comunidad a discreción de los organizadores de MadridJS.
 
 Las formas de acoso incluyen comentarios ofensivos, orales o escritos,
-relacionados con sexo, identidad u orientación sexuales, discapacidades,
-aspecto físico, edad, raza, nacionalidad o creencias religiosas,
+especialmente si están relacionados con sexo, identidad u orientación sexuales, discapacidades,
+aspecto físico, edad, raza, nacionalidad o creencias religiosas;
 intimidación, amenazas, persecución, acecho, fotografías o grabaciones abusivas,
 y atenciones sexuales no gratas.
 El lenguaje o las imágenes sexuales no se permiten en ningún evento de
@@ -28,7 +28,7 @@ organizador inmediatamente.
 
 ### MadridJS
 
-* Organizadores: Alejandro Fernández [@pinchito](https://twitter.com/pinchito), Javier Vélez [@javiervelezreye](https://twitter.com/javiervelezreye), Israel Alcázar [@ialcazar](https://twitter.com/ialcazar).
+* Organizadores: Alejandro Fernández [@pinchito](https://twitter.com/pinchito), Javier Vélez [@javiervelezreye](https://twitter.com/javiervelezreye), Manu Fosela [@manufosela](https://twitter.com/manufosela).
 
 **Si tienes preguntas o sugerencias sobre este código de conducta,
 por favor contacta con uno de los organizadores.**
