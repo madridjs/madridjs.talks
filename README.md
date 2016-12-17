@@ -60,11 +60,15 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
+### Enero 2017
+
+Por determinar.
+
+## Charlas Pasadas
+
 ### Noviembre 2016
 
 Special guest talk: [The (Awesome) Future of Web Apps](https://github.com/madridjs/talks/issues/28). See on [Meetup](http://www.meetup.com/es-ES/madridjs/events/235184483/).
-
-## Charlas Pasadas
 
 ### Octubre 2016
 
