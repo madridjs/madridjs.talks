@@ -62,7 +62,7 @@ según disponibilidad de los ponentes y espacios.
 
 ### Febrero 2017
 
-[VueJS: La Revolución Sencilla](https://github.com/madridjs/talks/issues/25). See on [Meetup](https://www.meetup.com/es-ES/madridjs/events/237536476/).
+Charla única: [VueJS: La Revolución Sencilla](https://github.com/madridjs/talks/issues/25). Ver en [Meetup](https://www.meetup.com/es-ES/madridjs/events/237536476/).
 
 ## Charlas Pasadas
 
