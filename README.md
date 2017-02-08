@@ -60,9 +60,9 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Enero 2017
+### Febrero 2017
 
-Por determinar.
+[VueJS: La Revolución Sencilla](https://github.com/madridjs/talks/issues/25). See on [Meetup](https://www.meetup.com/es-ES/madridjs/events/237536476/).
 
 ## Charlas Pasadas
 
