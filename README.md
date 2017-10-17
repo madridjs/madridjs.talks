@@ -60,11 +60,30 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Febrero 2017
+### Octubre 2017
 
-Charla única: [VueJS: La Revolución Sencilla](https://github.com/madridjs/talks/issues/25). Ver en [Meetup](https://www.meetup.com/es-ES/madridjs/events/237536476/).
+Charla única: [El nuevo GWT 2.8.x - 3.0.x, la alternativa Java a Javascript](https://github.com/madridjs/talks/issues/27).
 
 ## Charlas Pasadas
+
+### Septiembre 2017
+
+Workshop especial: [Observables with imagination](https://github.com/madridjs/talks/issues/35). Ver en [Meetup](https://www.meetup.com/es-ES/madridjs/events/243151109/).
+
+### Junio 2017
+
+Charla única: [https://github.com/madridjs/talks/issues/24](https://github.com/madridjs/talks/issues/24). Ver en [Meetup](https://www.meetup.com/es-ES/madridjs/events/240743105/).
+
+### Marzo 2017
+
+* Encuentro especial: [Debate Tecnologías de Front Web](https://www.meetup.com/es-ES/madridjs/events/238243886/).
+* Taller: [Taller de Web Assembly (English)](https://www.meetup.com/es-ES/madridjs/events/237612617/).
+* Encuentro especial: [La Realidad Virtual llega a tu navegador favorito](https://www.meetup.com/es-ES/madridjs/events/237613115/).
+
+### Febrero 2017
+
+* Charla única: [VueJS: La Revolución Sencilla](https://github.com/madridjs/talks/issues/25). Ver en [Meetup](https://www.meetup.com/es-ES/madridjs/events/237536476/).
+* Taller: [Taller de angular2 e ionic2 desde 0](https://www.meetup.com/es-ES/madridjs/events/236300297/).
 
 ### Noviembre 2016
 
