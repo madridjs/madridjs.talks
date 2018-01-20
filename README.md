@@ -57,14 +57,21 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 
 ## Próximas charlas previstas
 
-La fecha y organización de las charlas puede cambiar sin previo aviso,
-según disponibilidad de los ponentes y espacios.
+La fecha y organización de las charlas puede cambiar sin previo aviso, según disponibilidad de los ponentes y espacios.
+
+## Charlas Pasadas
+
+### Enero 2017
+
+Charla especial: [Work Smart, Not Hard](https://github.com/madridjs/talks/issues/37).
+
+### Noviembre 2017
+
+Charla única: [Arquitectura de web components con ng2 npm para 100 aplicaciones web](https://github.com/madridjs/talks/issues/29).
 
 ### Octubre 2017
 
 Charla única: [El nuevo GWT 2.8.x - 3.0.x, la alternativa Java a Javascript](https://github.com/madridjs/talks/issues/27).
-
-## Charlas Pasadas
 
 ### Septiembre 2017
 
