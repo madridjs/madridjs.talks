@@ -14,3 +14,7 @@
 (30 min to one hour)
 (30 minutos a una hora)
 
+# Constraints / Condicionantes
+
+(Any constraints you have, e.g. specific dates)
+(Condicionantes, por ejemplo una fecha específica)
