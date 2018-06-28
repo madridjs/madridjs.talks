@@ -19,6 +19,7 @@ Envía un [_issue_](https://github.com/MadridJs/talks/issues/new) para proponer 
 * Título de la charla.
 * Descripción: unas cuantas frases sobre lo que quieres hablar.
 * Bio de ponente: ¿quién eres, y qué haces en tu tiempo libre?
+* Condicionantes: siempre intentaremos amoldarnos a tus necesidades.
 
 Contactaremos contigo para confirmar recepción, y para asignarte fecha tentativa.
 Te avisaremos ya en firme con varias semanas de antelación.
@@ -31,11 +32,12 @@ about 40 minutes long.
 No matter gender, age, origin or condition.
 Send yours *now*!
 
-Send an issue to propose a talk. Please include:
+Send an [issue](https://github.com/MadridJs/talks/issues/new) to propose a talk. Please include:
 
 * Title of the talk.
 * Description: a few sentences explaining what you will talk about.
 * Bio: who are you, and what do you do?
+* Constraints: we always try to suit your needs.
 
 We will contact you to confirm reception, and to assign tentative date.
 We will then notify you with a final date, several weeks in advance.
@@ -57,11 +59,35 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 
 ## Próximas charlas previstas
 
-La fecha y organización de las charlas puede cambiar sin previo aviso, según disponibilidad de los ponentes y espacios.
+La fecha y organización de las charlas puede cambiar sin previo aviso, según disponibilidad de los ponentes y espacios. Salvo eventos extraordinarios o con condicionantes específicos, iremos tirando de la [lista de _issues_](https://github.com/madridjs/talks/issues?q=is%3Aopen+is%3Aissue) por orden de envío.
 
 ## Charlas Pasadas
 
-### Enero 2017
+### Junio 2018
+
+[De idea a clientes](https://github.com/madridjs/talks/issues/48).
+
+### Mayo 2018
+
+Tres eventos:
+
+* [Optimización del rendimiento en navegadores](https://github.com/madridjs/talks/issues/31)
+* [Crear una API completa con NestJs](https://github.com/madridjs/talks/issues/41)
+* Evento extraordinario: [https://github.com/madridjs/talks/issues/44)
+
+### Abril 2018
+
+Evento extraordinario: [Introducción a Angular](https://github.com/madridjs/talks/issues/45).
+
+### Marzo 2018
+
+Evento extraordinario: [Creating Engaging Mobile Apps with NativeScript and Vue](https://github.com/madridjs/talks/issues/43).
+
+### Febrero 2018
+
+[Resilient Microservice WebAPIs with REST and API Gateway](https://github.com/madridjs/talks/issues/36).
+
+### Enero 2018
 
 Charla especial: [Work Smart, Not Hard](https://github.com/madridjs/talks/issues/37).
 
