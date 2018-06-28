@@ -73,7 +73,7 @@ Tres eventos:
 
 * [Optimización del rendimiento en navegadores](https://github.com/madridjs/talks/issues/31)
 * [Crear una API completa con NestJs](https://github.com/madridjs/talks/issues/41)
-* Evento extraordinario: [https://github.com/madridjs/talks/issues/44)
+* Evento extraordinario: [Workshop de contribución al proyecto Mattermost](https://github.com/madridjs/talks/issues/44)
 
 ### Abril 2018
 
