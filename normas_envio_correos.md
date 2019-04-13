@@ -11,7 +11,7 @@ Para evitar debates no relacionados con el meetup y que no aportan nada positivo
   * **[OT]** para temas de posible interés para la comunidad no relacionados con el tema del meetup
   * Sin etiqueta: resto de consultas, preguntas, propuestas... relacionadas con el tema del meetup
 
-* Los mensajes con ofertas de trabajo deberán indicar claramente una banda salarial o no serán aprobados. Si pasado un tiempo no llega la oferta a la lista,
+* Los mensajes con ofertas de trabajo deberán indicar claramente una banda salarial o no serán aprobados.
 
 * Los correos mal etiquetados, se avisará al remitente a que lo etiquete correctamente y lo vuelva a enviar.
 
