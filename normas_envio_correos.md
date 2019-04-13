@@ -13,7 +13,7 @@ Para evitar debates no relacionados con el meetup y que no aportan nada positivo
 
 * Los mensajes con ofertas de trabajo deberán indicar claramente una banda salarial o no serán aprobados.
 
-* Los correos mal etiquetados, se avisará al remitente a que lo etiquete correctamente y lo vuelva a enviar.
+* Si se recibe un correo mal etiquetado se avisará al remitente para que lo etiquete correctamente y lo vuelva a enviar.
 
 * En los correos con etiquetas no se permitirán hilos de respuesta, ya que serán temas meramente informativos, que cualquiera puede filtrar en su email si no le interesan, por ejemplo, las ofertas de trabajo.
 
