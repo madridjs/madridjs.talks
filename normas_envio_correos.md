@@ -16,7 +16,7 @@ Para evitar debates no relacionados con el meetup y que no aportan nada positivo
 
 * En los correos con etiquetas no se permitirán hilos de respuesta, ya que serán temas meramente informativos, que cualquiera puede filtrar en su email si no le interesan, por ejemplo, las ofertas de trabajo.
 
-* Todos los correos serán aprobados si además cumplen con el código de conducta del meetup.
+* Todos los correos serán aprobados si además cumplen con el [código de conducta](https://github.com/madridjs/talks/blob/master/codigo-conducta.md) del meetup.
 
 * Las respuestas de los hilos serán moderadas y aceptadas con la mayor brevedad posible, entendiendo que el rol de moderador es un rol voluntario, altruista y temporal.
 
