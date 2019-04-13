@@ -21,4 +21,4 @@ Para evitar debates no relacionados con el meetup y que no aportan nada positivo
 
 * Las respuestas de los hilos serán moderadas y aceptadas con la mayor brevedad posible, entendiendo que el rol de moderador es un rol voluntario, altruista y temporal.
 
-* Todas las respuestas a un mensaje que incluyan comentarios chistosos, ofensivos, irónicos, sarcástico, o provocadores serán automáticamente eliminados. Igualmente los mensajes que no supongan una clara contribución la discusión serán igualmente descartados para evitar generar ruido innecesario.
+* Todas las respuestas a un mensaje que incluyan comentarios chistosos, ofensivos, irónicos, sarcásticos, o provocadores serán automáticamente eliminados. Igualmente los mensajes que no supongan una clara contribución la discusión serán descartados para evitar generar ruido innecesario.
