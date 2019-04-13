@@ -1,8 +1,9 @@
 # Normas para enviar correos a la lista del meetup
 
+Los mensajes se deben dirigir a madridjs-announce@meetup.com. Usa siempre el correo con el que te suscribiste y donde te llegan los correos de Meetup. Si ves que tu mensaje no se publica en unas horas en el [archivo](https://www.meetup.com/es-ES/madridjs/messages/archive/), reenvía el email **tal cual** a alejandrofer@gmail.com, y lo haremos llegar.
+
 Para evitar debates no relacionados con el meetup y que no aportan nada positivo, la lista de correo estará moderada bajo las siguientes normas:
 
-* Todo mensaje se debe dirigir a madridjs-announce@meetup.com
 * Todo mensaje dirigido a la lista debe estar correctamente etiquetado en el asunto del mismo con alguna de las siguientes etiquetas:
   * **[JOB]** para ofertas de trabajo
   * **[EVENT]** para eventos, conferencias, otros meetups relacionados con el tema del meetup
@@ -10,13 +11,13 @@ Para evitar debates no relacionados con el meetup y que no aportan nada positivo
   * **[OT]** para temas de posible interés para la comunidad no relacionados con el tema del meetup
   * Sin etiqueta: resto de consultas, preguntas, propuestas... relacionadas con el tema del meetup
 
-* Los mensajes con ofertas de trabajo deberán indicar claramente una banda salarial o no serán aprobados.
+* Los mensajes con ofertas de trabajo deberán indicar claramente una banda salarial o no serán aprobados. Si pasado un tiempo no llega la oferta a la lista,
 
 * Los correos mal etiquetados, se avisará al remitente a que lo etiquete correctamente y lo vuelva a enviar.
 
 * En los correos con etiquetas no se permitirán hilos de respuesta, ya que serán temas meramente informativos, que cualquiera puede filtrar en su email si no le interesan, por ejemplo, las ofertas de trabajo.
 
-* Todos los correos serán aprobados si además cumplen con el [código de conducta](https://github.com/madridjs/talks/blob/master/codigo-conducta.md) del meetup.
+* Para que los correos sean aprobados deberán cumplir el [código de conducta](https://github.com/madridjs/talks/blob/master/codigo-conducta.md) del meetup.
 
 * Las respuestas de los hilos serán moderadas y aceptadas con la mayor brevedad posible, entendiendo que el rol de moderador es un rol voluntario, altruista y temporal.
 
