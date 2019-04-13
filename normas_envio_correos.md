@@ -7,7 +7,7 @@ Para evitar debates no relacionados con el meetup y que no aportan nada positivo
 * Todo mensaje dirigido a la lista debe estar correctamente etiquetado en el asunto del mismo con alguna de las siguientes etiquetas:
   * **[JOB]** para ofertas de trabajo
   * **[EVENT]** para eventos, conferencias, otros meetups relacionados con el tema del meetup
-  * **[ANN]** para anuncios de cursos o en general de lago de posible interés para la comunidad 
+  * **[ANN]** para anuncios de cursos o en general de algo de posible interés para la comunidad 
   * **[OT]** para temas de posible interés para la comunidad no relacionados con el tema del meetup
   * Sin etiqueta: resto de consultas, preguntas, propuestas... relacionadas con el tema del meetup
 
