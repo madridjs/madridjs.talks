@@ -1,6 +1,6 @@
 # Normas para enviar correos a la lista del meetup
 
-Los mensajes se deben dirigir a madridjs-announce@meetup.com. Usa siempre el correo con el que te suscribiste y donde te llegan los correos de Meetup. Si ves que tu mensaje no se publica en unas horas en el [archivo](https://www.meetup.com/es-ES/madridjs/messages/archive/), reenvía el email **tal cual** a alejandrofer@gmail.com, y lo haremos llegar.
+Los mensajes se deben dirigir a madridjs-announce@meetup.com. Usa siempre el correo con el que te suscribiste y donde te llegan los correos de Meetup. Si ves que tu mensaje no se publica en unas horas en el [archivo](https://www.meetup.com/es-ES/madridjs/messages/archive/), reenvía el email **tal cual** a mjfosela@gmail.com, y lo haremos llegar.
 
 Para evitar debates no relacionados con el meetup y que no aportan nada positivo, la lista de correo estará moderada bajo las siguientes normas:
 
