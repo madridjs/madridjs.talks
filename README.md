@@ -55,7 +55,7 @@ we have adopted this [code of conduct](codigo-conducta.md), right now in Spanish
 but you can read our [inspiring](http://www.meetup.com/pdxpython/pages/Code_of_Conduct/)
 [policies](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 In a nutshell: don't be a jerk to others.
-Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any doubts.
+Contact [Manu Fosela](mailto:mjfosela@gmail.com) if you have any doubts.
 
 ## Próximas charlas previstas
 
