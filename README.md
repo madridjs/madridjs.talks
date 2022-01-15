@@ -1,187 +1,107 @@
-# MadridJS Talks
 
-Este repositorio sirve para organizar la cola de charlas propuestas.
-Publicaremos los encuentros en [Meetup.com](http://www.meetup.com/es/madridjs/).
-
-This repository is used to organized the queue of proposals.
-We will publish all meetups on [Meetup.com](http://www.meetup.com/es/madridjs/).
-
-## Propuestas
-
-En [MadridJS](http://www.meetup.com/madridjs/)
-estamos buscando activamente charlas sobre JavaScript,
-de unos 40 minutos de duración.
-Sin importar sexo, edad, origen o condición.
-¡Anímate *ahora*!
-
-Envía un [_issue_](https://github.com/MadridJs/talks/issues/new) para proponer una charla. Por favor, incluye:
-
-* Título de la charla.
-* Descripción: unas cuantas frases sobre lo que quieres hablar.
-* Bio de ponente: ¿quién eres, y qué haces en tu tiempo libre?
-* Condicionantes: siempre intentaremos amoldarnos a tus necesidades.
-
-Contactaremos contigo para confirmar recepción, y para asignarte fecha tentativa.
-Te avisaremos ya en firme con varias semanas de antelación.
-
-## Call for Proposals
-
-At [MadridJS](http://www.meetup.com/madridjs/)
-we are actively seeking talks about JavaScript,
-about 40 minutes long.
-No matter gender, age, origin or condition.
-Send yours *now*!
-
-Send an [issue](https://github.com/MadridJs/talks/issues/new) to propose a talk. Please include:
-
-* Title of the talk.
-* Description: a few sentences explaining what you will talk about.
-* Bio: who are you, and what do you do?
-* Constraints: we always try to suit your needs.
-
-We will contact you to confirm reception, and to assign tentative date.
-We will then notify you with a final date, several weeks in advance.
-
-## Código de conducta
-
-Para asegurarnos que seamos todos tan majos con los demás como hasta ahora,
-hemos elaborado este [código de conducta](codigo-conducta.md) donde viene por escrito.
-Es nuestro compromiso con un ambiente libre de malos rollos.
-
-## Code of Conduct
-
-To ensure that we are all as nice to each other as we have been so far,
-we have adopted this [code of conduct](codigo-conducta.md), right now in Spanish only,
-but you can read our [inspiring](http://www.meetup.com/pdxpython/pages/Code_of_Conduct/)
-[policies](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
-In a nutshell: don't be a jerk to others.
-Contact [Manu Fosela](mailto:mjfosela@gmail.com) if you have any doubts.
-
-## Próximas charlas previstas
-
-La fecha y organización de las charlas puede cambiar sin previo aviso, según disponibilidad de los ponentes y espacios. Salvo eventos extraordinarios o con condicionantes específicos, iremos tirando de la [lista de _issues_](https://github.com/madridjs/talks/issues?q=is%3Aopen+is%3Aissue) por orden de envío.
-
-## Charlas Pasadas
-
-### Junio 2018
-
-[De idea a clientes](https://github.com/madridjs/talks/issues/48).
-
-### Mayo 2018
-
-Tres eventos:
-
-* [Optimización del rendimiento en navegadores](https://github.com/madridjs/talks/issues/31)
-* [Crear una API completa con NestJs](https://github.com/madridjs/talks/issues/41)
-* Evento extraordinario: [Workshop de contribución al proyecto Mattermost](https://github.com/madridjs/talks/issues/44)
-
-### Abril 2018
-
-Evento extraordinario: [Introducción a Angular](https://github.com/madridjs/talks/issues/45).
-
-### Marzo 2018
-
-Evento extraordinario: [Creating Engaging Mobile Apps with NativeScript and Vue](https://github.com/madridjs/talks/issues/43).
-
-### Febrero 2018
-
-[Resilient Microservice WebAPIs with REST and API Gateway](https://github.com/madridjs/talks/issues/36).
-
-### Enero 2018
-
-Charla especial: [Work Smart, Not Hard](https://github.com/madridjs/talks/issues/37).
-
-### Noviembre 2017
-
-Charla única: [Arquitectura de web components con ng2 npm para 100 aplicaciones web](https://github.com/madridjs/talks/issues/29).
-
-### Octubre 2017
-
-Charla única: [El nuevo GWT 2.8.x - 3.0.x, la alternativa Java a Javascript](https://github.com/madridjs/talks/issues/27).
-
-### Septiembre 2017
-
-Workshop especial: [Observables with imagination](https://github.com/madridjs/talks/issues/35). Ver en [Meetup](https://www.meetup.com/es-ES/madridjs/events/243151109/).
-
-### Junio 2017
-
-Charla única: [https://github.com/madridjs/talks/issues/24](https://github.com/madridjs/talks/issues/24). Ver en [Meetup](https://www.meetup.com/es-ES/madridjs/events/240743105/).
-
-### Marzo 2017
-
-* Encuentro especial: [Debate Tecnologías de Front Web](https://www.meetup.com/es-ES/madridjs/events/238243886/).
-* Taller: [Taller de Web Assembly (English)](https://www.meetup.com/es-ES/madridjs/events/237612617/).
-* Encuentro especial: [La Realidad Virtual llega a tu navegador favorito](https://www.meetup.com/es-ES/madridjs/events/237613115/).
-
-### Febrero 2017
-
-* Charla única: [VueJS: La Revolución Sencilla](https://github.com/madridjs/talks/issues/25). Ver en [Meetup](https://www.meetup.com/es-ES/madridjs/events/237536476/).
-* Taller: [Taller de angular2 e ionic2 desde 0](https://www.meetup.com/es-ES/madridjs/events/236300297/).
-
-### Noviembre 2016
-
-Special guest talk: [The (Awesome) Future of Web Apps](https://github.com/madridjs/talks/issues/28). See on [Meetup](http://www.meetup.com/es-ES/madridjs/events/235184483/).
-
-### Octubre 2016
-
-Charla única: [Programa tu robot MIP con NativeScript](https://github.com/madridjs/talks/issues/22). Ver en [Meetup](http://www.meetup.com/es-ES/madridjs/events/234750673/).
-
-### Septiembre 2016
-
-Charla única: [Gestionar la asincronía en Javascript](https://github.com/madridjs/talks/issues/23). Ver en [Meetup](http://www.meetup.com/es-ES/madridjs/events/234060007/).
-
-### Junio 2016
-
-Charla única: [UI Kits en React: el caso de React Toolbox](https://github.com/madridjs/talks/issues/20).  Ver en [Meetup](http://www.meetup.com/es-ES/madridjs/events/231747361/).
-
-### Mayo 2016
-
-Charla única: [Fable o cómo escribir un compilador a JS](https://github.com/madridjs/talks/issues/19). Ver en [Meetup](http://www.meetup.com/es-ES/madridjs/events/231216532/).
-
-### Marzo 2016
-
-Introductoria: [Mapas con vitaminas](https://github.com/madridjs/talks/issues/14).
-Avanzada: [At your service!](https://github.com/madridjs/talks/issues/16).
-
-### Febrero 2016
-
-Especial: [Keep it simple, use React](https://github.com/madridjs/talks/issues/15).
-
-### Enero 2016
-
-Especial: Taller de programación funcional.
-Especial: Taller avanzado de programación funcional.
-
-### Noviembre 2015
-
-Charlas especiales: JavaScript at Booking.com.
-
-### Octubre 2015
-
-Charla única: [Augur Project: heavy duty React](https://github.com/madridjs/talks/issues/12).
-
-### Septiembre 2015
-
-Charla única: [Creating Web Applications with ReactJS and Flux](https://github.com/madridjs/talks/issues/5).
-
-### Junio 2015
-
-Fuera de programa: [From ECMAScript 5 to ES 6 to Scala.js](http://www.meetup.com/es/madridjs/events/222928590/)
-
-### Mayo 2015
-
-Introductoria: [Hitting the Couch](https://github.com/madridjs/talks/issues/7) (English).
-
-Avanzada: [Stealing from Clojure(Script)](https://github.com/madridjs/talks/issues/6).
-
-### Abril 2015
-
-Introductoria: Charla Motivacional por el prof. Pinchito.
-
-Avanzada: [The new HTTP/2 protocol](https://github.com/madridjs/talks/issues/4) (English).
-
-### Marzo 2015
-
-Introductoria: [Fibonacci everywhere](https://github.com/madridjs/talks/issues/1).
-
-Avanzada: [La arquitectura fluida](https://github.com/madridjs/talks/issues/2).
+  
+# MadridJS  Talks  
+  
+Entre las actividades que se realizan en Madrid JS destacan los eventos mensuales  
+de tipo charla. Estos eventos tienen un espíritu divulgativo donde un speaker habla  
+sobre una de las temáticas de interés del grupo. Cualquier miembro puede presentarse  
+como candidato para dar una charla y compartir sus conocimientos con el grupo.  
+  
+## Tipos de Charlas  
+  
+Las charlas de Madrid JS pueden ser de diferente tipo en función de su propósito,  
+enfoque y formato. Si quieres dar una charla en la comunidad es bueno que conozcas  
+los siguientes tipos para orientar lo mejor posible de exposición si bien en el  
+grupo siempre estamos abiertos a propuestas innovadoras.  
+  
+- **Charlas**. Las charlas son el tipo de evento más habitual. En ellas el speaker  
+expone un tema de interés para el grupo y la sesión concluye con una ronda de  
+preguntas que tienen por objeto abrir debate sobre lo explicado.  
+- **Live  Coding**. En las sesiones de live  coding en usuario se centra en desarrollar  
+durante la sesión una solución a un problema para explicar paso sobre el código  
+la misma. Este es un formato de gran aceptación que permite a los asistentes un  
+mayor acercamiento a la tecnología.  
+- **Talleres**. Los talleres se centran en resolver problemas y retos de desarrollo  
+de forma conjunta y colaborativa por parte de los asistentes. El proceso es  
+dirigido y monitorizado por el speakers para garantizar un proceso de aprendizaje  
+adecuado.  
+- **Hackatones**. Los hackatones plantean un reto de desarrollo que debe ser resuelto  
+haciendo uso de las tecnologías de interés del grupo. Este tipo de eventos suelen  
+ser organizados a petición de empresas patrocinadoras que ofrecen premios para los  
+ganadores del hackatón.  
+- **Mesas Redondas**. Las mesas redondas presentan un tema de interés para discutir entre  
+varios asistentes. El objetivo principal es generar debate entre los asistentes de  
+manera que en la ronda de preguntas y comentarios se abra espacio para que estos  
+participen y expongan sus opiniones.  
+- **Paneles**. Los paneles son sesiones en las que el speaker presenta un producto o  
+proyecto a los asistentes. Este tipo de eventos se cierran con una ronda de preguntas  
+que permite a los asistentes participar y hacer sugerencias y comentarios sobre la  
+solución expuesta.  
+  
+## Duración de las Charlas  
+  
+La duración de las charlas puede variar dependiendo de muchos factores, pero especialmente  
+está relacionada con el tipo de evento de que se trate. Así por ejemplo, los eventos de  
+tipo charla, y panel suelen tener una duración aproximada de 1h que se reparte en 45 min  
+de exposición y 15 min de preguntas. Las actividades de life  coding y mesas redondas  
+suelen tener una duración más larga, típicamente entre 1h y medio y 2 horas. Mientas que  
+los talleres o hackatones pueden tener una duración de entre varias horas a varios días  
+o semanas.  
+  
+## Formato de las Charlas  
+  
+El formato de las charlas también suele depender del tipo de charla y otros factores  
+externos. En este sentido, en Madrid JS distinguimos 3 formatos diferentes que ofrecen  
+diferentes modos de participación.  
+  
+- **Formato Presencial**. En el formato presencial los participantes y el speaker  
+se reunen junto con el organizador en algún local cedido por un anfitrión. Estos  
+anfitriones suelen ser empresas o centros de coworking que tienen sus oficinas  
+en algún punto de Madrid. La charla se desarrolla con los medios tecnológicos que  
+ofrece el anfitrión.  
+- **Formato Online**. En el formato online el speaker y el organizador se reúnen en  
+torno a una herramienta de streaming y los participantes siguen en remoto la sesión  
+a través del streaming. Desde el canal de streaming se pueden hacer preguntas y  
+comentarios que serán transmitidas al speaker para que las responda.  
+- **Formato Mixto**. En el formato mixto el speaker y el organizador se reúnen en el  
+local cedido por el anfitrión y los asistentes pueden acudir también al mismo como  
+ocurre en el modo presencial. Sin embargo, la sesión es asimismo retransmitida por  
+streaming para que se pueda hacer un seguimiento de ella de forma remota.  
+  
+## Propuestas  
+  
+En Madrid JS estamos buscando siempre activamente nuevas charlas y participantes  
+para que compartan con nosotros su conocimiento y experiencias en las tecnologías de  
+interés del grupo. Este repositorio va dirigido precisamente a dar soporte al caudal de  
+solicitudes que recibimos para dar una charla en el grupo.  
+  
+En concreto, para enviar una solicitud de charla debes enviar una [_issue_](https://github.com/MadridJs/talks/issues/new) con tu propuesta.  
+Como sabes el formato es un texto abierto así que debes indicar claramente los siguientes  
+datos:  
+  
+- Título de la charla.  
+- Descripción: unas cuantas frases sobre lo que quieres hablar.  
+- Biografía de ponente: ¿quién eres, y qué haces en tu tiempo libre?  
+- Condicionantes: siempre intentaremos amoldarnos a tus necesidades.  
+- Forma de contacto: correo o similar  
+  
+Los organizadores atenderemos las solicitudes en orden según se acumulen en la cola del  
+repositorio atendiendo a las condiciones y restricciones de calendario que hayas formulado.  
+Cuando llegue tu turno, contactaremos contigo para acordar una fecha adecuada y gestionar  
+todo el proceso.  
+  
+## Publicación  
+  
+Todos los eventos que se desarrollan en el grupo serán publicados en nuestra página de  
+[Meetup.com](http://www.meetup.com/es/madridjs/). Allí se registran los participantes y si eres speaker podrás hacer un seguimiento  
+del enrollment que está generando tu convocatoria. Además, te recomendamos que durante  
+unos días antes y después de tu charla revises esa página porque es el medio que tiene tu  
+audiencia para ponerse en contacto contigo. Frecuentemente, hay gente interesada en dejar  
+preguntas sobre tu charla o solicitar recursos, enlaces o material.  
+  
+## Código de conducta  
+  
+En Madrid JS nos guiamos por un [código de conducta](codigo-conducta.md) que coincide con el de la mayor parte  
+de las comunidades tecnológicas hermanas dentro de meetup a nivel nacional. Básicamente,  
+creemos en el respecto y la inclusión y rechazamos cualquier gesto que vaya en contra de  
+estos principios fundamentales de convivencia. Te invitamos a que los consultes y te adscribas a ellos.
